@@ -147,6 +147,12 @@
  */
 
 /**
+ * @author Thomas Weißschuh [thomas@t-8ch.de]
+ * @copyright Crown Copyright 2021
+ * @license Apache-2.0
+ */
+
+/**
  * @author Unknown Male 282
  * @copyright Crown Copyright 2016
  * @license Apache-2.0
@@ -335,6 +341,14 @@
 /**
  * @author tlwr [toby@toby.codes]
  * @copyright Crown Copyright 2017
+ * @license Apache-2.0
+ */
+
+/**
+ * Base45 resources.
+ *
+ * @author Thomas Weißschuh [thomas@t-8ch.de]
+ * @copyright Crown Copyright 2021
  * @license Apache-2.0
  */
 
@@ -590,4 +604,4 @@
 
 //! moment.js locale configuration
 
-//! version : 0.5.33
+//! version : 0.5.34
