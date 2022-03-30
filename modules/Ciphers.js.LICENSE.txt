@@ -109,6 +109,12 @@
  */
 
 /**
+ * @author swesven
+ * @copyright 2021
+ * @license Apache-2.0
+ */
+
+/**
  * Base64 functions.
  *
  * @author n1474335 [n1474335@gmail.com]
@@ -125,6 +131,21 @@
  * @copyright Crown Copyright 2018
  * @license Apache-2.0
  *
+ */
+
+/**
+ * Complete implementation of SM4 cipher encryption/decryption with
+ * ECB, CBC, CFB, OFB, CTR block modes.
+ * These modes are specified in IETF draft-ribose-cfrg-sm4-09, see:
+ * https://tools.ietf.org/id/draft-ribose-cfrg-sm4-09.html
+ * for details.
+ *
+ * Follows spec from Cryptography Standardization Technical Comittee:
+ * http://www.gmbz.org.cn/upload/2018-04-04/1522788048733065051.pdf
+ *
+ * @author swesven
+ * @copyright 2021
+ * @license Apache-2.0
  */
 
 /**
@@ -190,6 +211,14 @@
  * @copyright Crown Copyright 2018
  * @license Apache-2.0
  *
+ */
+
+/**
+ * Hexadecimal functions.
+ *
+ * @author n1474335 [n1474335@gmail.com]
+ * @copyright Crown Copyright 2016
+ * @license Apache-2.0
  */
 
 /**
