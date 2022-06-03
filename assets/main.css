@@ -18,6 +18,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{background:#fff;color:#000}.hljs-comment,.hljs-quote,.hljs-variable{color:green}.hljs-built_in,.hljs-keyword,.hljs-name,.hljs-selector-tag,.hljs-tag{color:#00f}.hljs-addition,.hljs-attribute,.hljs-literal,.hljs-section,.hljs-string,.hljs-template-tag,.hljs-template-variable,.hljs-title,.hljs-type{color:#a31515}.hljs-deletion,.hljs-meta,.hljs-selector-attr,.hljs-selector-pseudo{color:#2b91af}.hljs-doctag{color:grey}.hljs-attr{color:red}.hljs-bullet,.hljs-link,.hljs-symbol{color:#00b0e8}.hljs-emphasis{font-style:italic}.hljs-strong{font-weight:700}
 .card{font-size:.875rem;font-weight:normal}/*!
  * Bootstrap v4.6.1 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
@@ -2290,9 +2291,16 @@ div.toggle-string {
     line-height: calc(var(--title-height) - 14px);
 }
 
-.title>span,
-.title>.btn {
-    margin-top: -4px;
+.pane-controls {
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    display: flex;
+    flex-direction: row;
+}
+
+.pane-controls .btn {
+    margin-left: 2px;
 }
 
 .list-area {
@@ -2493,6 +2501,10 @@ div.toggle-string {
 
 #controls .btn {
     border-radius: 30px;
+}
+
+.output-maximised .hide-on-maximised-output {
+    display: none !important;
 }
 
 .spin {
@@ -2935,9 +2947,8 @@ div.toggle-string {
 }
 
 .io-info {
-    margin-right: 20px;
+    margin-right: 18px;
     margin-top: 1px;
-    float: right;
     height: 30px;
     text-align: right;
     line-height: 12px;
@@ -3431,8 +3442,8 @@ div#output {
 
 .split {
     box-sizing: border-box;
-    /* overflow: auto;
-    Removed to enable Background Magic button pulse to overflow.
+    /* overflow: auto; */
+    /* Removed to enable Background Magic button pulse to overflow.
     Replace this rule if it seems to be causing problems. */
     position: relative;
 }
