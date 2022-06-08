@@ -157,6 +157,17 @@
  */
 
 /**
+ * Transform a json object into html representation
+ *
+ * Adapted for CyberChef by @n1474335 from jQuery json-viewer
+ * @author Alexandre Bodelot <alexandre.bodelot@gmail.com>
+ * @link https://github.com/abodelot/jquery.json-viewer
+ * @license MIT
+ *
+ * @returns {string}
+ */
+
+/**
 * vkBeautify - javascript plugin to pretty-print or minify text in XML, JSON, CSS and SQL formats.
 *
 * Copyright (c) 2012 Vadim Kiryukhin
