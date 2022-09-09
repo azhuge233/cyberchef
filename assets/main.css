@@ -1213,7 +1213,22 @@ a:focus {
     border-color: var(--btn-success-hover-border-colour);
 }
 
-select.form-control:not([size]):not([multiple]), select.custom-file-control:not([size]):not([multiple]) {
+select.form-control {
+    background-color: #fff !important;
+    background-color: var(--primary-background-colour) !important;
+}
+
+select.form-control:focus {
+    background-color: #fff !important;
+    background-color: var(--primary-background-colour) !important;
+}
+
+select.form-control:focus {
+    transition: none !important;
+}
+
+select.form-control:not([size]):not([multiple]),
+select.custom-file-control:not([size]):not([multiple]) {
     height: unset !important;
 }
 
