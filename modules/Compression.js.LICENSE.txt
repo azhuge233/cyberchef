@@ -16,6 +16,12 @@
  */
 
 /**
+ * @author Matt C [me@mitt.dev]
+ * @copyright Crown Copyright 2022
+ * @license Apache-2.0
+ */
+
+/**
  * @author crespyl [peter@crespyl.net]
  * @copyright Peter Jacobs 2021
  * @license Apache-2.0
