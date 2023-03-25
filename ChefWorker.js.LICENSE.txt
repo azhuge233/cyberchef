@@ -239,6 +239,12 @@
  */
 
 /**
+ * @author gchq77703 [gchq77703@gchq.gov.uk]
+ * @copyright Crown Copyright 2019
+ * @license Apache-2.0
+ */
+
+/**
  * @author h345983745
  * @copyright Crown Copyright 2019
  * @license Apache-2.0

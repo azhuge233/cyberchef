@@ -14,6 +14,12 @@
 /*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /**
+ * @author Tan Zhen Yong [tzy@beyondthesprawl.com]
+ * @copyright Crown Copyright 2019
+ * @license Apache-2.0
+ */
+
+/**
  * @author brun0ne [brunonblok@gmail.com]
  * @copyright Crown Copyright 2022
  * @license Apache-2.0
