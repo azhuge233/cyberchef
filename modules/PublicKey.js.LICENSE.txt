@@ -11,9 +11,6 @@
 /*! (c) Tom Wu | http://www-cs-students.stanford.edu/~tjw/jsbn/
  */
 
-/*! (c) Tom Wu, Kenji Urushima | http://www-cs-students.stanford.edu/~tjw/jsbn/
- */
-
 /*! Mike Samuel (c) 2009 | code.google.com/p/json-sans-eval
  */
 

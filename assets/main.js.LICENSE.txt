@@ -8,17 +8,6 @@
  */
 
 /*!
- * Sizzle CSS Selector Engine v2.3.10
- * https://sizzlejs.com/
- *
- * Copyright JS Foundation and other contributors
- * Released under the MIT license
- * https://js.foundation/
- *
- * Date: 2023-02-14
- */
-
-/*!
  * The buffer module from node.js, for the browser.
  *
  * @author   Feross Aboukhadijeh <https://feross.org>
@@ -237,7 +226,7 @@
  */
 
 /**!
- * Sortable 1.15.0
+ * Sortable 1.15.2
  * @author	RubaXa   <trash@rubaxa.org>
  * @author	owenm    <owen23355@gmail.com>
  * @license MIT
@@ -255,4 +244,4 @@
 
 //! moment.js locale configuration
 
-//! version : 0.5.41
+//! version : 0.5.44
