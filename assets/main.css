@@ -16968,6 +16968,17 @@ div#output {
 
 /* Operations */
 
+del {
+    background-color: #ffb6b6aa;
+    background-color: var(--hl3);
+}
+
+ins {
+    text-decoration: underline; /* shouldn't be needed, but Chromium doesn't copy to clipboard without it */
+    background-color: #8de768aa;
+    background-color: var(--hl5);
+}
+
 /**
  * JSON styles
  *
@@ -17022,7 +17033,8 @@ ul.json-dict, ol.json-array {
 }
 
 .json-summary {
-    display: contents;
+    display: inline;
+    list-style: none;
 }
 
 /* Display object and array brackets when closed */
