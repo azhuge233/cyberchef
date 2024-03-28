@@ -158,6 +158,12 @@
  */
 
 /**
+ * @author n1474335 [n1474335@gmail.com]
+ * @copyright Crown Copyright 2024
+ * @license Apache-2.0
+ */
+
+/**
  * Base64 functions.
  *
  * @author n1474335 [n1474335@gmail.com]
@@ -240,6 +246,17 @@
  */
 
 /**
+ * JA4 resources.
+ *
+ * @author n1474335 [n1474335@gmail.com]
+ * @copyright Crown Copyright 2024
+ * @license Apache-2.0
+ *
+ * JA4 Copyright 2023 FoxIO, LLC.
+ * @license BSD-3-Clause
+ */
+
+/**
  * JWT resources
  *
  * @author mt3571 [mt3571@protonmail.com]
@@ -255,6 +272,14 @@
  * @copyright Crown Copyright 2018
  * @license Apache-2.0
  *
+ */
+
+/**
+ * TLS resources.
+ *
+ * @author n1474335 [n1474335@gmail.com]
+ * @copyright Crown Copyright 2024
+ * @license Apache-2.0
  */
 
 /**
