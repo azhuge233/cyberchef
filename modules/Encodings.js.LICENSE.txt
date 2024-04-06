@@ -73,6 +73,12 @@ and limitations under the License.
  */
 
 /**
+ * @author sg5506844 [sg5506844@gmail.com]
+ * @copyright Crown Copyright 2021
+ * @license Apache-2.0
+ */
+
+/**
  * Base64 functions.
  *
  * @author n1474335 [n1474335@gmail.com]
