@@ -16812,6 +16812,11 @@ input.toggle-string {
     color: var(--input-highlight-colour);
 }
 
+.bmd-form-group.is-filled:focus-within .checkbox.option-item label {
+    color: #1976d2;
+    color: var(--input-highlight-colour);
+}
+
 .bmd-form-group.option-item label+.form-control{
     background-image:
         linear-gradient(to top, #1976d2 2px, rgba(0, 0, 0, 0) 2px),
